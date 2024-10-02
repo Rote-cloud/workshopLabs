@@ -1,0 +1,6 @@
+qaseio==3.4.1
+pytest
+playwright
+requests
+qase-pytest==4.2.0
+python-dotenv
